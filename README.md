@@ -22,7 +22,7 @@ Se você deseja contribuir para o desenvolvimento deste projeto, siga estas etap
 
 ## Autor
 
-Este projeto foi desenvolvido por [Seu Nome].
+Este projeto foi desenvolvido por [MarcosP-Costa].
 
 
 
