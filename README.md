@@ -22,7 +22,17 @@ Se você deseja contribuir para o desenvolvimento deste projeto, siga estas etap
 
 ## Autor
 
-Este projeto foi desenvolvido por [MarcosP-Costa].
+Este projeto foi desenvolvido por MarcosP-Costa.
+
+# Roadmap
+[X] Montar modelo no Figma
+[X] Modificar mudanças no Figma
+[X] Montar HTML
+[X] Arrumar HTML
+[X] Montar estrutura Bootstrap
+[X] Hospedar no Github Pages
+[ ] Hospedar no Hostinger 
+
 
 
 
